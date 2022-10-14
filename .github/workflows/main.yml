@@ -1,7 +1,7 @@
 name: Testim E2E
 on:
     push:
-        branches: [development]
+        branches: [master]
 
 jobs:
     secrets-in-github-actions:
