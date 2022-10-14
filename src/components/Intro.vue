@@ -26,7 +26,7 @@ export default {};
   display: flex;
   background: radial-gradient(
     circle,
-    rgba(247, 150, 192, 1) 0%,
+    rgba(247, 150, 192, 1) 10%,
     rgba(118, 174, 241, 1) 100%
   );
   flex-direction: column;
